@@ -10,18 +10,14 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //自建节点
 const MainData = `
 
-//vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVVLVZNZXNzIiwNCiAgImFkZCI6ICJldS53MTk5Ny5ldS5vcmciLA0KICAicG9ydCI6ICI4ODgwIiwNCiAgImlkIjogIjI1ZGE2MmU2LTY2OTktNDNiOS1iZTlmLTMyMzcwMWYzNDVjOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3d3eiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVVLVZNZXNzIiwNCiAgImFkZCI6ICJldS53MTk5Ny5ldS5vcmciLA0KICAicG9ydCI6ICI4ODgwIiwNCiAgImlkIjogIjI1ZGE2MmU2LTY2OTktNDNiOS1iZTlmLTMyMzcwMWYzNDVjOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3d3eiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+hysteria2://deadd1f5@kr.w1997.eu.org:666/?sni=www.bing.com&insecure=1#EU-Hysteria2
+//hysteria2://deadd1f5@2a02:180:6:1::31c:66/?sni=www.bing.com&insecure=1#EU-Hysteria2
 
 `
 //机场信息，可多个，也可为0
 const urls = [
-	'https://wwz.wwz.im',
-	'https://br.wwz.im',
-	'https://vps.ulefone.gq',
-	//'https://lb.wenzhi.cf',
-	//'https://lw.wenzhi.cf',
-
+	'https://wangwenzhi.cf/99218632',
 	
 	// 添加更多订阅,支持base64
 ];
