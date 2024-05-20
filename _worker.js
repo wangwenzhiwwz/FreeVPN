@@ -10,7 +10,8 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //自建节点
 const MainData = `
 
-//ss://YWVzLTI1Ni1nY206RzdGRGhDRWVDdnJHa3J1Uw==@c95s1.portablesubmarines.com:19588#JMS%40c95s1
+//vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVVLVZNZXNzIiwNCiAgImFkZCI6ICJldS53MTk5Ny5ldS5vcmciLA0KICAicG9ydCI6ICI4ODgwIiwNCiAgImlkIjogIjI1ZGE2MmU2LTY2OTktNDNiOS1iZTlmLTMyMzcwMWYzNDVjOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3d3eiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
 
 `
 //机场信息，可多个，也可为0
