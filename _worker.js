@@ -11,7 +11,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 const MainData = `
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVVLVZNZXNzIiwNCiAgImFkZCI6ICJldS53MTk5Ny5ldS5vcmciLA0KICAicG9ydCI6ICI4ODgwIiwNCiAgImlkIjogIjI1ZGE2MmU2LTY2OTktNDNiOS1iZTlmLTMyMzcwMWYzNDVjOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3d3eiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-hysteria2://deadd1f5@kr.w1997.eu.org:666/?sni=www.bing.com&insecure=1#EU-Hysteria2
+//hysteria2://deadd1f5@kr.w1997.eu.org:666/?sni=www.bing.com&insecure=1#EU-Hysteria2
 //hysteria2://deadd1f5@2a02:180:6:1::31c:66/?sni=www.bing.com&insecure=1#EU-Hysteria2
 
 `
