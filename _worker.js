@@ -10,6 +10,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //自建节点
 const MainData = `
 
+hysteria2://iFJ8OLDO1DshZiOX@sr.w1997.eu.org:31916/?sni=www.bing.com&alpn=h3&insecure=1#SR_Hysteria2
 vless://7222471c-0ec0-4664-a225-904e5d171fc9@fbi.gov:443?encryption=none&security=tls&sni=cf.w1997.eu.org&fp=randomized&type=ws&host=cf.w1997.eu.org&path=%2F%3Fed%3D2048#CF_VLess
 trojan://99218632@103.137.63.2:443?security=tls&sni=wangwenzhi.cf&alpn=h3&fp=randomized&type=ws&host=wangwenzhi.cf&path=%2F%3Fproxyip%3Dproxyip.tw.fxxk.dedyn.io#TW
 
