@@ -15,7 +15,7 @@ vless://7222471c-0ec0-4664-a225-904e5d171fc9@cf.w1997.eu.org:443?encryption=none
 `
 //机场信息，可多个，也可为0
 const urls = [
-	'https://wangwenzhi.cf/99218632',
+	'https://wangwenzhi.cf/d0298536-d670-4045-bbb1-ddd5ea68683e',
 	
 	// 添加更多订阅,支持base64
 ];
